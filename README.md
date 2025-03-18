@@ -5,7 +5,7 @@ I'm a **Fullstack Developer** with expertise in **Next.js, NestJS, React.js, Rea
 ---
 
 ## 🚀 Tech Stack
-
+<p align="center">
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -14,6 +14,7 @@ I'm a **Fullstack Developer** with expertise in **Next.js, NestJS, React.js, Rea
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+</p>
 
 ---
 
