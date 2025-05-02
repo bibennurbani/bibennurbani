@@ -31,7 +31,8 @@ focusing on **managing the environment** and optimizing operations through techn
 ## 🎥 YouTube & Content Creation
 
 I share content about **home labs, programming, and tech** on my YouTube channel:  
-▶️ **[tcglabs.id](https://www.youtube.com/@tcglabsid)**
+▶️ **[tcglabs.id](https://www.youtube.com/@TheCreativeGeeks-labs)**
+📬 **[blog tcglabs.id](https://tcglabs.id)**
 
 ---
 
