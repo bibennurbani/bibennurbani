@@ -41,16 +41,6 @@ I share content about **home labs, programming, and tech** on my YouTube channel
 Aside from coding, I also run a **Clothing & Fashion Shop** 👕👗.  
 Stay tuned for upcoming digital projects related to fashion!
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bibennurbani&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibennurbani&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 📬 Connect with Me
 
